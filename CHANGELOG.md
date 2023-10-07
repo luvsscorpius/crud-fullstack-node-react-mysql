@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/luvsscorpius/crud-fullstack-node-react-mysql/compare/v1.1.0...v1.2.0) (2023-10-07)
+
+
+### Features
+
+* **grid/api:** creating component grid and finishing backend ([5cd2b78](https://github.com/luvsscorpius/crud-fullstack-node-react-mysql/commit/5cd2b78920fc084fbb3076094f7d3da8172f924f))
+
 # [1.1.0](https://github.com/luvsscorpius/crud-fullstack-node-react-mysql/compare/v1.0.0...v1.1.0) (2023-10-07)
 
 
